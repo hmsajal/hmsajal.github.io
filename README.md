@@ -1,4 +1,4 @@
-## HMSAJAL.COM | A portfolio site.
+## hmsajal.com | Portfolio website.
 ### This is a personal Website built with React JS. You can visit the site if you want. It is hosted in github: *www.hmsajal.github.io*
 ### Tools and libraries I used for development
 * Webpack was used for bundling and package management. 
